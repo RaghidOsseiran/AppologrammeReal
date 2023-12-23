@@ -9,7 +9,7 @@ const server = http.createServer();
 
 const client = new Client({
   user: 'postgres',
-  password: 'Hunterxhunter04', 
+  password: '', 
   database: 'appologram',
   port: 5432
 });
